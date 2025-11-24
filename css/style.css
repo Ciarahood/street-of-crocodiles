@@ -1,0 +1,72 @@
+body {
+    background: #e7bdbd; 
+color: #270505;
+font-family: serif;
+font-weight: 500;
+}
+section, header {
+width: 90%;
+max-width: 800px;
+margin: auto;
+margin-bottom: 5rem;
+}
+
+
+header, h1, h2, blockquote {
+font-family: serif;
+color: #821010;
+}
+
+h1 {
+    font-size: 9rem;
+}
+header, h1 {
+   
+    line-height: 3;
+    color: #8b1111;
+    margin: 6rem 0 1rem 0;
+    text-align: center;
+}
+
+
+
+h2 {
+font-size: 5rem;
+}
+header h2 {
+    font-family: serif;
+    font-weight: 300;
+    color: #7a1313;
+    font-style: oblique;
+    margin-bottom: 4rem;
+}
+
+p1 { font-size: 3rem;
+color: #7a1313;
+}
+
+
+
+
+
+p {
+    line-height: 1.6;
+    color: #270404;
+font-size: 1.2rem;}
+
+header p {
+    font-size: 4rem;
+    font-family: serif;
+    color: #961d1d;
+}
+blockquote {
+    margin: 4rem 0 2rem 0;
+}
+
+blockquote {
+    line-height: 1.6;
+    font-style: italic;
+    font-size: 1.562rem;
+    hanging-punctuation: first;
+    text-indent: -0.06;
+}
